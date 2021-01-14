@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppTallerQBOInstitute</string>
+    <string name="valtitulo">MI PRIMERA APP EN ANDROID</string>
+    <string name="valetnombre">Ingrese su nombre</string>
+    <string name="valetexaparcial">Ingrese su  nota del examen parcial</string>
+    <string name="valetnotaexafinal">Ingrese su nota del examen final</string>
+    <string name="valbtncalcular">CALCULAR Nota</string>
+</resources>
